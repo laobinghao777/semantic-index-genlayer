@@ -1,0 +1,13 @@
+{
+  "name": "semantic-index",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "deploy": "node scripts/run.mjs deploy",
+    "test": "python tests.py"
+  },
+  "dependencies": {
+    "genlayer-js": "2.0.0-rc.2",
+    "viem": "2.38.5"
+  }
+}
