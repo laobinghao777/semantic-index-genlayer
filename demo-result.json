@@ -1,0 +1,134 @@
+{
+  "wallet": "0xF10aB469555eb723d62A565217EE678A8C200526",
+  "contract": "0x211376d052267FE82655ef3B58f4c7C04759B614",
+  "chainId": 4221,
+  "network": "Bradbury Phase 2",
+  "balanceGEN": "99.998496629449969305",
+  "netCostGEN": "0.000374030320008468",
+  "balanceChangeGEN": "0.000374030320008468",
+  "transactions": [
+    {
+      "action": "deploy",
+      "contract": "0x211376d052267FE82655ef3B58f4c7C04759B614",
+      "startedAt": "2026-11-09T11:53:53.119Z",
+      "beforeWei": "99998870659769977773",
+      "feeDepositWei": "25000000000004235",
+      "status": "finalized",
+      "maxCostWei": "25128654400004235",
+      "evmHash": "0x8744509b594878161abf4b6fca1b4fe0b2f22ed4e991f0e8003a10b92cd15252",
+      "txId": "0xb5ab2559e4da703278deec54ef01159c3ba1d6bcd22a172a14851d36115b7b0e",
+      "finalizedAt": "2026-11-09T11:55:38.136Z",
+      "protocolStatus": "FINALIZED",
+      "executionResult": "FINISHED_WITH_RETURN",
+      "afterWei": "99998746953669975656",
+      "netCostWei": "123706100002117",
+      "netCostGEN": "0.000123706100002117",
+      "gasUsed": "6177760",
+      "gasPriceWei": "10000000",
+      "evmFeeWei": "61777600000000"
+    },
+    {
+      "action": "create_case",
+      "contract": "0x211376d052267FE82655ef3B58f4c7C04759B614",
+      "startedAt": "2026-11-09T11:56:06.849Z",
+      "beforeWei": "99998746953669975656",
+      "feeDepositWei": "25000000000004235",
+      "status": "finalized",
+      "maxCostWei": "25046188340004235",
+      "evmHash": "0x6b3732369715cb2024722e3d97fd706a8c66b8587bfa24a98d5acf902b804cd7",
+      "txId": "0x4623f9607eba6ea7671a93a51edef110e82b06cb3cc05ff278d6d3f328965600",
+      "finalizedAt": "2026-11-09T11:57:38.430Z",
+      "protocolStatus": "FINALIZED",
+      "executionResult": "FINISHED_WITH_RETURN",
+      "afterWei": "99998663217639973539",
+      "netCostWei": "83736030002117",
+      "netCostGEN": "0.000083736030002117",
+      "gasUsed": "2184653",
+      "gasPriceWei": "10000000",
+      "evmFeeWei": "21846530000000"
+    },
+    {
+      "action": "add_entry",
+      "contract": "0x211376d052267FE82655ef3B58f4c7C04759B614",
+      "startedAt": "2026-11-09T12:54:27.393Z",
+      "beforeWei": "99998663217639973539",
+      "feeDepositWei": "25000000000004235",
+      "status": "finalized",
+      "maxCostWei": "25044061800004235",
+      "evmHash": "0xa28d5327bc445a0a0f716e03e06f0d9591bf4b49db64672d57fea6ef6a080267",
+      "txId": "0x6bbca99389a5c068df3c401284a4bf5202a0c97733d2a419f455533b0918b970",
+      "finalizedAt": "2026-11-09T12:56:11.123Z",
+      "protocolStatus": "FINALIZED",
+      "executionResult": "FINISHED_WITH_RETURN",
+      "afterWei": "99998580303839971422",
+      "netCostWei": "82913800002117",
+      "netCostGEN": "0.000082913800002117",
+      "gasUsed": "2102205",
+      "gasPriceWei": "10000000",
+      "evmFeeWei": "21022050000000"
+    },
+    {
+      "action": "add_entry",
+      "contract": "0x211376d052267FE82655ef3B58f4c7C04759B614",
+      "startedAt": "2026-11-09T12:56:27.858Z",
+      "beforeWei": "99998580303839971422",
+      "feeDepositWei": "25000000000004235",
+      "status": "finalized",
+      "maxCostWei": "25044800680004235",
+      "evmHash": "0x3c3d79c4222be36ff948e0671d4046a007a77d34d372ab0df07c15c5d58bd765",
+      "txId": "0x00eb4a3d71a2e94f7ce20f20d6f1b4628e58ff12593fc0692dee55e8818a6b24",
+      "finalizedAt": "2026-11-09T12:58:21.658Z",
+      "protocolStatus": "FINALIZED",
+      "executionResult": "FINISHED_WITH_RETURN",
+      "afterWei": "99998496629449969305",
+      "netCostWei": "83674390002117",
+      "netCostGEN": "0.000083674390002117",
+      "gasUsed": "2115164",
+      "gasPriceWei": "10000000",
+      "evmFeeWei": "21151640000000"
+    }
+  ],
+  "pending": false,
+  "total": 1,
+  "items": [
+    {
+      "decisions": [
+        {
+          "canonical_id": 1,
+          "compared_canonical_count": 0,
+          "content": "Power outage in Paris on 2026-11-08.",
+          "content_sha256": "59f99dd6909d356d3b15c5a35ed120416c4a2dbbaf3e635207e104d18720b3b4",
+          "relations": [],
+          "revision": 1,
+          "status": "inserted"
+        },
+        {
+          "canonical_id": 1,
+          "compared_canonical_count": 1,
+          "content": "Paris electricity interruption on November 8, 2026.",
+          "content_sha256": "8af9a4725f671fd95cd679e3230b9831d93933822b212b453d580e9928824418",
+          "relations": [
+            {
+              "reason": "City (Paris), date (2026-11-08), and incident type (electricity interruption/power outage) all match.",
+              "relation": "same"
+            }
+          ],
+          "revision": 2,
+          "status": "alias"
+        }
+      ],
+      "entries": [
+        {
+          "id": 1,
+          "sha256": "59f99dd6909d356d3b15c5a35ed120416c4a2dbbaf3e635207e104d18720b3b4",
+          "text": "Power outage in Paris on 2026-11-08."
+        }
+      ],
+      "id": "1",
+      "name": "Incident identity registry",
+      "owner": "0xF10aB469555eb723d62A565217EE678A8C200526",
+      "policy": "Two reports identify the same incident only if city, calendar date, and incident type all match. Similar wording alone is insufficient.",
+      "revision": 2
+    }
+  ]
+}
